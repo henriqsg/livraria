@@ -8,8 +8,8 @@ public class Costumer {
 	
 	public Costumer() {
 		this.id = 1L;
-		this.name = "The lonely costumer";
-		this.email = "lonely@library.com";
+		this.name = "Current user";
+		this.email = "current-user@library.com";
 	}
 	
 	public Long getId() {

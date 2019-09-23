@@ -1,8 +1,12 @@
 package library.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 public class Comment {
-	
+
+	@JsonIgnore
 	private Costumer author;
+
 	private String text;
 	private Book book;
 	
