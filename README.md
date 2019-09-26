@@ -45,4 +45,4 @@ Esta regra não foi implementada na API por questões de simplicidade das massas
 A API retorna corretamente os códigos HTTP esperados: 200 quando um recurso é buscado com sucesso e 201 quando um recurso é criado com sucesso. Os demais códigos da sequência 2xx não foram necessários pela simplicidade da API. Os erros retornados entram na casa 4xx de códigos HTTP, com o código 400 para uma requisição com dados inválidos passados pelo usuário da API e 500 caso ocorra erro interno na API.
 
 ## TESTES
-# Arquivo livraria-testes.postman_collection.json contém coleção do Postman utilizada para fins de teste da API.
+Arquivo livraria-testes.postman_collection.json contém coleção do Postman utilizada para fins de teste da API.
