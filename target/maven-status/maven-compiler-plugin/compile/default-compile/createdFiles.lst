@@ -1,0 +1,16 @@
+library\domain\Costumer.class
+library\LibraryConfiguration.class
+library\rest\exception\CheckoutNotFound.class
+library\rest\exception\BookNotFound.class
+library\rest\exception\ExceptionResponse.class
+library\rest\exception\ShoppingCartNotFound.class
+library\LibraryApplication.class
+library\rest\BookController.class
+library\domain\Book.class
+library\domain\ShoppingCart.class
+library\service\MockService.class
+library\rest\CheckOutController.class
+library\rest\exception\BookHasIdentity.class
+library\domain\CheckOut.class
+library\rest\ShoppingCartController.class
+library\domain\Comment.class

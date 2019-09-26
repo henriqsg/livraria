@@ -101,4 +101,12 @@ public class MockService {
 		book.setId(100L);
 		return book;
 	}
+
+	public List<CheckOut> getAllCheckout() {
+		return CheckOut.buildCheckOuts();
+	}
+
+	public List<ShoppingCart> getAllShoppingCart() {
+		return ShoppingCart.buildShopCart();
+	}
 }
